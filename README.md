@@ -5,7 +5,7 @@ https://goldbcr.io
 
 # What is Gold BCR?
 
-# GBCR is decentralized gold-backed cryptocurrency that is secure, fast, and profitable
+# GBCR is decentralized gold-backed cryptocurrency that is secure and fast
 
 With a proof-of-stake consensus, backing coins with gold, this peer-to-peer electronic cash system is the next evolution in Bitcoin technology.
 
